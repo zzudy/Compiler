@@ -1,0 +1,28 @@
+
+int main(){
+
+	int a_file = 20;
+	int b=3;
+
+	double a =3.354545;
+	if(1) {
+
+	printf("thils");
+	a
+	a
+	b
+
+	//comes
+	/*
+multicommesnts
+	dddddddd*/
+	return;
+"asd"
+""dddd""
+
+	"asd"
+	"Asd"
+	"dd\"
+"abcd\
+bcd"
+}
